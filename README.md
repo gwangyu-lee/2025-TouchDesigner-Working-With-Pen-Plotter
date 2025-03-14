@@ -12,6 +12,9 @@
 
 ## L-System
 ````
+p.25 c
+n = 4, angle = 22.5
+
 premise:A
 
 A = F
@@ -19,6 +22,9 @@ F = FFF-[J--F+F+FK]+[J+F-F-FK]
 ````
 
 ```
+p.25 d
+n = 7, angle = 20
+
 premise:A
 
 A = X
