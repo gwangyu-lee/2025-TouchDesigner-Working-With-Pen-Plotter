@@ -16,18 +16,52 @@ Springer-Verlag, New York, Phone: 212.460.1500
 ISBN: 0-387-94676-4, 1996.    
 
 ```
+p.17 a
+generation = 4, angle = 90
+
+premise:A
+
+A = -L
+L = LF+RFR+FL-F-LFLFL-FRFR+
+R = -LFLF+RFRFR+F+RF-LFL-FR
+```
+
+```
+p.17 b
+generation = 3, angle = 90
+
+premise:A
+
+A = -L
+L = LFLF+RFR+FLFL-FRF-LFL-FR+F+RF-LFL-FRFRFR+
+R = -LFLFLF+RFR+FL-F-LF+RFR+FLF+RFRF-LFL-FRFR
+```
+
+```
+p.20
+generation = 2, angle = 90
+
+premise:A
+
+A = B-F+CFC+F-D&F^D-F+&&CFC+F+B//
+B = A&F^CFB^F^D^^-F-D^|F^B|FC^F^A//
+C = |D^|F^B-F+C^F^A&&FA&F^C+F+B^F^D//
+D = |CFB-F+B|FA&F^A&&FB-F+B|FC//
+```
+
+```
 p.25 c
-n = 4, angle = 22.5
+generation = 4, angle = 22.5
 
 premise:A
 
 A = F
-F = FFF-[J--F+F+FK]+[J+F-F-FK]
+F = FFF-[--F+F+FJ]+[+F-F-FK]
 ```
 
 ```
 p.25 d
-n = 7, angle = 20
+generation = 6, angle = 20
 
 premise:A
 
