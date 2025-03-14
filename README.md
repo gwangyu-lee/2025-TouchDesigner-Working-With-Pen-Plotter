@@ -9,3 +9,19 @@
 ## References
 [SOP to SVG](https://github.com/raganmd/touchdesigner-sop-to-svg)    
 [2023-TouchDesigner-Working-With-Pen-Plotter-Workshop](https://github.com/gwangyu-lee/2023-TouchDesigner-Working-With-Pen-Plotter-Workshop?tab=readme-ov-file)
+
+## L-System
+````
+premise:A
+
+A = F
+F = FFF-[J--F+F+FK]+[J+F-F-FK]
+````
+
+```
+premise:A
+
+A = X
+X = F[+X]F[-XJ]+X
+F = FF
+```
