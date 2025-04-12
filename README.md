@@ -2,7 +2,6 @@
 
 ![IMG_8097](https://github.com/user-attachments/assets/07d9a714-ed65-4b05-b883-72a9d8223ff7)
 
-
 ## SVG Fonts
 [SVG Fonts](https://gitlab.com/oskay/svg-fonts)
 
@@ -74,6 +73,11 @@ F = FF
 ## References
 [SOP to SVG](https://github.com/raganmd/touchdesigner-sop-to-svg)    
 [2023-TouchDesigner-Working-With-Pen-Plotter-Workshop](https://github.com/gwangyu-lee/2023-TouchDesigner-Working-With-Pen-Plotter-Workshop?tab=readme-ov-file)
+
+## Poster
+![timelapse h264 no sound](https://github.com/user-attachments/assets/490233bf-7ed0-4d6b-b664-899bad4957b6)
+![poster plot](https://github.com/user-attachments/assets/2046cf89-ffe6-4c16-85bb-140ce6327259)
+![터치디자이너 썸네일](https://github.com/user-attachments/assets/aca1f2d4-165a-4171-879d-00e92b9e4ddd)
 
 ## Pen Plotter Art
 
