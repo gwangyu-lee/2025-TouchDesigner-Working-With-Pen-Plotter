@@ -9,7 +9,7 @@
 [LSystem SOP](https://docs.derivative.ca/LSystem_SOP)
 
 ### Book
-The Algorithmic Beauty of Plants    
+*The Algorithmic Beauty of Plants*    
 Przemyslaw Prusinkiewicz & Aristid Lindenmayer    
 Springer-Verlag, New York, Phone: 212.460.1500    
 ISBN: 0-387-94676-4, 1996.    
