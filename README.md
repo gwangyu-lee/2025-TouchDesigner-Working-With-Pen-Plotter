@@ -74,11 +74,6 @@ F = FF
 [SOP to SVG](https://github.com/raganmd/touchdesigner-sop-to-svg)    
 [2023-TouchDesigner-Working-With-Pen-Plotter-Workshop](https://github.com/gwangyu-lee/2023-TouchDesigner-Working-With-Pen-Plotter-Workshop?tab=readme-ov-file)
 
-## Poster
-![timelapse h264 no sound](https://github.com/user-attachments/assets/490233bf-7ed0-4d6b-b664-899bad4957b6)
-![poster plot](https://github.com/user-attachments/assets/2046cf89-ffe6-4c16-85bb-140ce6327259)
-![터치디자이너 썸네일](https://github.com/user-attachments/assets/aca1f2d4-165a-4171-879d-00e92b9e4ddd)
-
 ## Pen Plotter Art
 
 ![IMG_8307](https://github.com/user-attachments/assets/fc5276c9-04f2-4b1e-a8f2-4fcbe135562c)
@@ -88,3 +83,8 @@ F = FF
 ![IMG_8223](https://github.com/user-attachments/assets/f262aff0-97f1-420e-bbc5-222f65bac000)
 ![IMG_8328](https://github.com/user-attachments/assets/97985f24-2800-43f6-8f13-f28ef6c0d764)
 
+## Poster
+
+![timelapse h264 no sound](https://github.com/user-attachments/assets/490233bf-7ed0-4d6b-b664-899bad4957b6)
+![poster plot](https://github.com/user-attachments/assets/2046cf89-ffe6-4c16-85bb-140ce6327259)
+![터치디자이너 썸네일](https://github.com/user-attachments/assets/aca1f2d4-165a-4171-879d-00e92b9e4ddd)
